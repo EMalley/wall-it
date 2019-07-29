@@ -1,5 +1,5 @@
 **Wall_it Financing** 
- please click [here](https://github.com/EMalley/wall-it/graphs/contributors) for an more insight to my contribution to this project 
+ please click [here](https://github.com/EMalley/wall-it/graphs/contributors) for more insight to my contribution to this project 
 
 # Summary
 
@@ -15,12 +15,12 @@ Wall-It requires that you sign in. A test account has been created for you.
  Password: Tester12345
 
 # Technology Used
-* React.JS |
-* React Router |
-* Node.js |
-* MySQL |
-* Sequelize |
-* JSX |
-* Bootstrap |
-* WorldTradeData API |
+* React.JS
+* React Router
+* Node.js
+* MySQL
+* Sequelize
+* JSX
+* Bootstrap
+* WorldTradeData API
 
